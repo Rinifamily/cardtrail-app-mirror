@@ -1,0 +1,35 @@
+# Agent Cube Configuration for CardTrail App
+
+# Writer Configuration
+writers:
+  writer_a:
+    model: sonnet-4.5-thinking
+    label: "Writer A (Sonnet)"
+    color: green
+  writer_b:
+    model: gpt-5.1-codex-high
+    label: "Writer B (Codex)"
+    color: blue
+
+# Judge Configuration
+judges:
+  judge_1:
+    model: sonnet-4.5-thinking
+    label: "Judge 1 (Sonnet)"
+    color: yellow
+  judge_2:
+    model: gpt-5.1-codex-high
+    label: "Judge 2 (Codex)"
+    color: cyan
+  judge_3:
+    model: gemini-3-pro
+    label: "Judge 3 (Gemini)"
+    color: magenta
+
+# CLI Tool Mapping
+cli_tools:
+  sonnet-4.5-thinking: cursor-agent
+  gpt-5.1-codex-high: cursor-agent
+  gemini-3-pro: cursor-agent
+  coderabbit: coderabbit
+

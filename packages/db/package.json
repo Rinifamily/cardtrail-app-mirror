@@ -1,0 +1,20 @@
+{
+  "name": "@cardtrail/db",
+  "version": "0.1.0",
+  "description": "Database query helpers and types for CardTrail",
+  "private": true,
+  "type": "module",
+  "main": "src/index.ts",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "vitest": "^4.0.15",
+    "typescript": "^5.6.3"
+  }
+}

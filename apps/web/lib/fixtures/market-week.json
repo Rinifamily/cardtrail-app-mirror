@@ -1,0 +1,2252 @@
+[
+  {
+    "id": 220,
+    "date": "2025-10-22T16:17:59.675Z",
+    "created_at": "2025-10-22T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1015.48,
+    "change_24h": 1.05,
+    "change_7d": -1.15,
+    "volume": 1796
+  },
+  {
+    "id": 221,
+    "date": "2025-10-22T16:17:59.675Z",
+    "created_at": "2025-10-22T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1186.81,
+    "change_24h": -0.95,
+    "change_7d": -1.98,
+    "volume": null
+  },
+  {
+    "id": 222,
+    "date": "2025-10-22T16:17:59.675Z",
+    "created_at": "2025-10-22T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 941.86,
+    "change_24h": -0.13,
+    "change_7d": -2.67,
+    "volume": null
+  },
+  {
+    "id": 223,
+    "date": "2025-10-22T16:17:59.675Z",
+    "created_at": "2025-10-22T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 882.1,
+    "change_24h": -0.71,
+    "change_7d": -1.29,
+    "volume": null
+  },
+  {
+    "id": 224,
+    "date": "2025-10-22T16:17:59.675Z",
+    "created_at": "2025-10-22T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1001.97,
+    "change_24h": -0.83,
+    "change_7d": -2.49,
+    "volume": null
+  },
+  {
+    "id": 215,
+    "date": "2025-10-23T16:17:59.675Z",
+    "created_at": "2025-10-23T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1018.96,
+    "change_24h": 1.62,
+    "change_7d": 1.16,
+    "volume": 1988
+  },
+  {
+    "id": 216,
+    "date": "2025-10-23T16:17:59.675Z",
+    "created_at": "2025-10-23T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1188.98,
+    "change_24h": -0.98,
+    "change_7d": 0.13,
+    "volume": null
+  },
+  {
+    "id": 217,
+    "date": "2025-10-23T16:17:59.675Z",
+    "created_at": "2025-10-23T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 944.01,
+    "change_24h": 0.4,
+    "change_7d": -2.22,
+    "volume": null
+  },
+  {
+    "id": 218,
+    "date": "2025-10-23T16:17:59.675Z",
+    "created_at": "2025-10-23T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 884.26,
+    "change_24h": -0.8,
+    "change_7d": -0.54,
+    "volume": null
+  },
+  {
+    "id": 219,
+    "date": "2025-10-23T16:17:59.675Z",
+    "created_at": "2025-10-23T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1004,
+    "change_24h": -0.39,
+    "change_7d": 1.5,
+    "volume": null
+  },
+  {
+    "id": 210,
+    "date": "2025-10-24T16:17:59.675Z",
+    "created_at": "2025-10-24T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1022.65,
+    "change_24h": -1.55,
+    "change_7d": -2.09,
+    "volume": 2134
+  },
+  {
+    "id": 211,
+    "date": "2025-10-24T16:17:59.675Z",
+    "created_at": "2025-10-24T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1191.56,
+    "change_24h": -0.57,
+    "change_7d": -2.89,
+    "volume": null
+  },
+  {
+    "id": 212,
+    "date": "2025-10-24T16:17:59.675Z",
+    "created_at": "2025-10-24T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 946.58,
+    "change_24h": -1.77,
+    "change_7d": 2.43,
+    "volume": null
+  },
+  {
+    "id": 213,
+    "date": "2025-10-24T16:17:59.675Z",
+    "created_at": "2025-10-24T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 886.71,
+    "change_24h": 0.81,
+    "change_7d": -2.04,
+    "volume": null
+  },
+  {
+    "id": 214,
+    "date": "2025-10-24T16:17:59.675Z",
+    "created_at": "2025-10-24T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1006.06,
+    "change_24h": 1.87,
+    "change_7d": -1.16,
+    "volume": null
+  },
+  {
+    "id": 205,
+    "date": "2025-10-25T16:17:59.675Z",
+    "created_at": "2025-10-25T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1026.23,
+    "change_24h": -1.87,
+    "change_7d": 2.65,
+    "volume": 2198
+  },
+  {
+    "id": 206,
+    "date": "2025-10-25T16:17:59.675Z",
+    "created_at": "2025-10-25T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1194.35,
+    "change_24h": 1.94,
+    "change_7d": 2.55,
+    "volume": null
+  },
+  {
+    "id": 207,
+    "date": "2025-10-25T16:17:59.675Z",
+    "created_at": "2025-10-25T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 949.56,
+    "change_24h": -1.95,
+    "change_7d": -1.01,
+    "volume": null
+  },
+  {
+    "id": 208,
+    "date": "2025-10-25T16:17:59.675Z",
+    "created_at": "2025-10-25T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 889.58,
+    "change_24h": -0.11,
+    "change_7d": -1.43,
+    "volume": null
+  },
+  {
+    "id": 209,
+    "date": "2025-10-25T16:17:59.675Z",
+    "created_at": "2025-10-25T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1008.41,
+    "change_24h": -1.85,
+    "change_7d": 2.12,
+    "volume": null
+  },
+  {
+    "id": 200,
+    "date": "2025-10-26T16:17:59.675Z",
+    "created_at": "2025-10-26T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1029.3,
+    "change_24h": 0.45,
+    "change_7d": 0.12,
+    "volume": 2165
+  },
+  {
+    "id": 201,
+    "date": "2025-10-26T16:17:59.675Z",
+    "created_at": "2025-10-26T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1197.03,
+    "change_24h": -1.23,
+    "change_7d": 2.13,
+    "volume": null
+  },
+  {
+    "id": 202,
+    "date": "2025-10-26T16:17:59.675Z",
+    "created_at": "2025-10-26T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 952.75,
+    "change_24h": -0.98,
+    "change_7d": -1.3,
+    "volume": null
+  },
+  {
+    "id": 203,
+    "date": "2025-10-26T16:17:59.675Z",
+    "created_at": "2025-10-26T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 892.86,
+    "change_24h": 1.43,
+    "change_7d": 2.94,
+    "volume": null
+  },
+  {
+    "id": 204,
+    "date": "2025-10-26T16:17:59.675Z",
+    "created_at": "2025-10-26T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1011.18,
+    "change_24h": -0.17,
+    "change_7d": -2.88,
+    "volume": null
+  },
+  {
+    "id": 195,
+    "date": "2025-10-27T16:17:59.675Z",
+    "created_at": "2025-10-27T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1031.5,
+    "change_24h": -0.34,
+    "change_7d": -1.51,
+    "volume": 2042
+  },
+  {
+    "id": 196,
+    "date": "2025-10-27T16:17:59.675Z",
+    "created_at": "2025-10-27T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1199.2,
+    "change_24h": -0.21,
+    "change_7d": -1.65,
+    "volume": null
+  },
+  {
+    "id": 197,
+    "date": "2025-10-27T16:17:59.675Z",
+    "created_at": "2025-10-27T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 955.83,
+    "change_24h": -1.12,
+    "change_7d": 2.4,
+    "volume": null
+  },
+  {
+    "id": 198,
+    "date": "2025-10-27T16:17:59.675Z",
+    "created_at": "2025-10-27T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 896.35,
+    "change_24h": 1.43,
+    "change_7d": -2.09,
+    "volume": null
+  },
+  {
+    "id": 199,
+    "date": "2025-10-27T16:17:59.675Z",
+    "created_at": "2025-10-27T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1014.36,
+    "change_24h": 0.08,
+    "change_7d": -0.05,
+    "volume": null
+  },
+  {
+    "id": 190,
+    "date": "2025-10-28T16:17:59.675Z",
+    "created_at": "2025-10-28T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1032.66,
+    "change_24h": -1.18,
+    "change_7d": 1.76,
+    "volume": 1859
+  },
+  {
+    "id": 191,
+    "date": "2025-10-28T16:17:59.675Z",
+    "created_at": "2025-10-28T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1200.5,
+    "change_24h": 0.81,
+    "change_7d": 1.4,
+    "volume": null
+  },
+  {
+    "id": 192,
+    "date": "2025-10-28T16:17:59.675Z",
+    "created_at": "2025-10-28T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 958.4,
+    "change_24h": 1.71,
+    "change_7d": 2.7,
+    "volume": null
+  },
+  {
+    "id": 193,
+    "date": "2025-10-28T16:17:59.675Z",
+    "created_at": "2025-10-28T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 899.73,
+    "change_24h": -0.61,
+    "change_7d": -1.8,
+    "volume": null
+  },
+  {
+    "id": 194,
+    "date": "2025-10-28T16:17:59.675Z",
+    "created_at": "2025-10-28T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1017.75,
+    "change_24h": 0.55,
+    "change_7d": 0.78,
+    "volume": null
+  },
+  {
+    "id": 185,
+    "date": "2025-10-29T16:17:59.675Z",
+    "created_at": "2025-10-29T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1032.77,
+    "change_24h": -0.04,
+    "change_7d": -0.16,
+    "volume": 1663
+  },
+  {
+    "id": 186,
+    "date": "2025-10-29T16:17:59.675Z",
+    "created_at": "2025-10-29T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1200.76,
+    "change_24h": 0.43,
+    "change_7d": -2.16,
+    "volume": null
+  },
+  {
+    "id": 187,
+    "date": "2025-10-29T16:17:59.675Z",
+    "created_at": "2025-10-29T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 960.1,
+    "change_24h": -0.47,
+    "change_7d": -1.97,
+    "volume": null
+  },
+  {
+    "id": 188,
+    "date": "2025-10-29T16:17:59.675Z",
+    "created_at": "2025-10-29T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 902.6,
+    "change_24h": -2,
+    "change_7d": -0.21,
+    "volume": null
+  },
+  {
+    "id": 189,
+    "date": "2025-10-29T16:17:59.675Z",
+    "created_at": "2025-10-29T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1021.03,
+    "change_24h": -0.33,
+    "change_7d": 0.24,
+    "volume": null
+  },
+  {
+    "id": 180,
+    "date": "2025-10-30T16:17:59.675Z",
+    "created_at": "2025-10-30T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1032.12,
+    "change_24h": -1.34,
+    "change_7d": 2.05,
+    "volume": 1499
+  },
+  {
+    "id": 181,
+    "date": "2025-10-30T16:17:59.675Z",
+    "created_at": "2025-10-30T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1199.97,
+    "change_24h": -0.69,
+    "change_7d": 1.21,
+    "volume": null
+  },
+  {
+    "id": 182,
+    "date": "2025-10-30T16:17:59.675Z",
+    "created_at": "2025-10-30T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 960.76,
+    "change_24h": -1.95,
+    "change_7d": -0.72,
+    "volume": null
+  },
+  {
+    "id": 183,
+    "date": "2025-10-30T16:17:59.675Z",
+    "created_at": "2025-10-30T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 904.6,
+    "change_24h": -1.31,
+    "change_7d": -0.71,
+    "volume": null
+  },
+  {
+    "id": 184,
+    "date": "2025-10-30T16:17:59.675Z",
+    "created_at": "2025-10-30T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1023.8,
+    "change_24h": 0.79,
+    "change_7d": 1.49,
+    "volume": null
+  },
+  {
+    "id": 175,
+    "date": "2025-10-31T16:17:59.675Z",
+    "created_at": "2025-10-31T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1031.18,
+    "change_24h": -0.37,
+    "change_7d": -1.96,
+    "volume": 1409
+  },
+  {
+    "id": 176,
+    "date": "2025-10-31T16:17:59.675Z",
+    "created_at": "2025-10-31T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1198.42,
+    "change_24h": -1.26,
+    "change_7d": -0.02,
+    "volume": null
+  },
+  {
+    "id": 177,
+    "date": "2025-10-31T16:17:59.675Z",
+    "created_at": "2025-10-31T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 960.37,
+    "change_24h": -0.03,
+    "change_7d": -0.05,
+    "volume": null
+  },
+  {
+    "id": 178,
+    "date": "2025-10-31T16:17:59.675Z",
+    "created_at": "2025-10-31T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 905.56,
+    "change_24h": -1.86,
+    "change_7d": -1.96,
+    "volume": null
+  },
+  {
+    "id": 179,
+    "date": "2025-10-31T16:17:59.675Z",
+    "created_at": "2025-10-31T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1025.7,
+    "change_24h": -1.19,
+    "change_7d": -2.04,
+    "volume": null
+  },
+  {
+    "id": 170,
+    "date": "2025-11-01T16:17:59.675Z",
+    "created_at": "2025-11-01T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1030.54,
+    "change_24h": 1.38,
+    "change_7d": 1.57,
+    "volume": 1415
+  },
+  {
+    "id": 171,
+    "date": "2025-11-01T16:17:59.675Z",
+    "created_at": "2025-11-01T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1196.58,
+    "change_24h": -1.67,
+    "change_7d": 2.49,
+    "volume": null
+  },
+  {
+    "id": 172,
+    "date": "2025-11-01T16:17:59.675Z",
+    "created_at": "2025-11-01T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 959.22,
+    "change_24h": -0.48,
+    "change_7d": -2.77,
+    "volume": null
+  },
+  {
+    "id": 173,
+    "date": "2025-11-01T16:17:59.675Z",
+    "created_at": "2025-11-01T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 905.47,
+    "change_24h": -0.92,
+    "change_7d": -2.52,
+    "volume": null
+  },
+  {
+    "id": 174,
+    "date": "2025-11-01T16:17:59.675Z",
+    "created_at": "2025-11-01T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1026.56,
+    "change_24h": 0.52,
+    "change_7d": -1.12,
+    "volume": null
+  },
+  {
+    "id": 165,
+    "date": "2025-11-02T16:17:59.675Z",
+    "created_at": "2025-11-02T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1030.79,
+    "change_24h": 1.02,
+    "change_7d": 0.56,
+    "volume": 1515
+  },
+  {
+    "id": 166,
+    "date": "2025-11-02T16:17:59.675Z",
+    "created_at": "2025-11-02T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1195.04,
+    "change_24h": 0.82,
+    "change_7d": 1.69,
+    "volume": null
+  },
+  {
+    "id": 167,
+    "date": "2025-11-02T16:17:59.675Z",
+    "created_at": "2025-11-02T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 957.78,
+    "change_24h": -1.47,
+    "change_7d": -2.31,
+    "volume": null
+  },
+  {
+    "id": 168,
+    "date": "2025-11-02T16:17:59.675Z",
+    "created_at": "2025-11-02T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 904.62,
+    "change_24h": 0.48,
+    "change_7d": 2.21,
+    "volume": null
+  },
+  {
+    "id": 169,
+    "date": "2025-11-02T16:17:59.675Z",
+    "created_at": "2025-11-02T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1026.37,
+    "change_24h": -1.58,
+    "change_7d": -2,
+    "volume": null
+  },
+  {
+    "id": 160,
+    "date": "2025-11-03T16:17:59.675Z",
+    "created_at": "2025-11-03T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1032.39,
+    "change_24h": -1.53,
+    "change_7d": 2.63,
+    "volume": 1684
+  },
+  {
+    "id": 161,
+    "date": "2025-11-03T16:17:59.675Z",
+    "created_at": "2025-11-03T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1194.39,
+    "change_24h": -1.17,
+    "change_7d": -2.24,
+    "volume": null
+  },
+  {
+    "id": 162,
+    "date": "2025-11-03T16:17:59.675Z",
+    "created_at": "2025-11-03T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 956.64,
+    "change_24h": -0.73,
+    "change_7d": 1.61,
+    "volume": null
+  },
+  {
+    "id": 163,
+    "date": "2025-11-03T16:17:59.675Z",
+    "created_at": "2025-11-03T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 903.48,
+    "change_24h": 0.46,
+    "change_7d": -0.02,
+    "volume": null
+  },
+  {
+    "id": 164,
+    "date": "2025-11-03T16:17:59.675Z",
+    "created_at": "2025-11-03T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1025.42,
+    "change_24h": -0.68,
+    "change_7d": 0.39,
+    "volume": null
+  },
+  {
+    "id": 155,
+    "date": "2025-11-04T16:17:59.675Z",
+    "created_at": "2025-11-04T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1035.55,
+    "change_24h": -1.48,
+    "change_7d": -0.15,
+    "volume": 1882
+  },
+  {
+    "id": 156,
+    "date": "2025-11-04T16:17:59.675Z",
+    "created_at": "2025-11-04T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1195.09,
+    "change_24h": 0.32,
+    "change_7d": -0.38,
+    "volume": null
+  },
+  {
+    "id": 157,
+    "date": "2025-11-04T16:17:59.675Z",
+    "created_at": "2025-11-04T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 956.39,
+    "change_24h": -0.79,
+    "change_7d": 0.04,
+    "volume": null
+  },
+  {
+    "id": 158,
+    "date": "2025-11-04T16:17:59.675Z",
+    "created_at": "2025-11-04T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 902.64,
+    "change_24h": -1.38,
+    "change_7d": -0.23,
+    "volume": null
+  },
+  {
+    "id": 159,
+    "date": "2025-11-04T16:17:59.675Z",
+    "created_at": "2025-11-04T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1024.18,
+    "change_24h": 1.24,
+    "change_7d": -1.56,
+    "volume": null
+  },
+  {
+    "id": 150,
+    "date": "2025-11-05T16:17:59.675Z",
+    "created_at": "2025-11-05T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1040.2,
+    "change_24h": -0.15,
+    "change_7d": 2.91,
+    "volume": 2060
+  },
+  {
+    "id": 151,
+    "date": "2025-11-05T16:17:59.675Z",
+    "created_at": "2025-11-05T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1197.35,
+    "change_24h": 1.25,
+    "change_7d": -1.59,
+    "volume": null
+  },
+  {
+    "id": 152,
+    "date": "2025-11-05T16:17:59.675Z",
+    "created_at": "2025-11-05T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 957.49,
+    "change_24h": -1.1,
+    "change_7d": 2.88,
+    "volume": null
+  },
+  {
+    "id": 153,
+    "date": "2025-11-05T16:17:59.675Z",
+    "created_at": "2025-11-05T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 902.69,
+    "change_24h": -1.89,
+    "change_7d": 0.64,
+    "volume": null
+  },
+  {
+    "id": 154,
+    "date": "2025-11-05T16:17:59.675Z",
+    "created_at": "2025-11-05T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1023.24,
+    "change_24h": 0.12,
+    "change_7d": -1.18,
+    "volume": null
+  },
+  {
+    "id": 145,
+    "date": "2025-11-06T16:17:59.675Z",
+    "created_at": "2025-11-06T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1045.94,
+    "change_24h": -1.78,
+    "change_7d": 1.75,
+    "volume": 2173
+  },
+  {
+    "id": 146,
+    "date": "2025-11-06T16:17:59.675Z",
+    "created_at": "2025-11-06T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1201.1,
+    "change_24h": 1.87,
+    "change_7d": -1.04,
+    "volume": null
+  },
+  {
+    "id": 147,
+    "date": "2025-11-06T16:17:59.675Z",
+    "created_at": "2025-11-06T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 960.15,
+    "change_24h": -0.9,
+    "change_7d": 0.93,
+    "volume": null
+  },
+  {
+    "id": 148,
+    "date": "2025-11-06T16:17:59.675Z",
+    "created_at": "2025-11-06T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 904.09,
+    "change_24h": 0.29,
+    "change_7d": 0.22,
+    "volume": null
+  },
+  {
+    "id": 149,
+    "date": "2025-11-06T16:17:59.675Z",
+    "created_at": "2025-11-06T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1023.19,
+    "change_24h": 0.28,
+    "change_7d": 0.15,
+    "volume": null
+  },
+  {
+    "id": 140,
+    "date": "2025-11-07T16:17:59.675Z",
+    "created_at": "2025-11-07T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1052.19,
+    "change_24h": 1.42,
+    "change_7d": -0.36,
+    "volume": 2196
+  },
+  {
+    "id": 141,
+    "date": "2025-11-07T16:17:59.675Z",
+    "created_at": "2025-11-07T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1205.94,
+    "change_24h": -1.89,
+    "change_7d": -0.21,
+    "volume": null
+  },
+  {
+    "id": 142,
+    "date": "2025-11-07T16:17:59.675Z",
+    "created_at": "2025-11-07T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 964.3,
+    "change_24h": 1.85,
+    "change_7d": 1.48,
+    "volume": null
+  },
+  {
+    "id": 143,
+    "date": "2025-11-07T16:17:59.675Z",
+    "created_at": "2025-11-07T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 907.05,
+    "change_24h": 1.2,
+    "change_7d": 0.86,
+    "volume": null
+  },
+  {
+    "id": 144,
+    "date": "2025-11-07T16:17:59.675Z",
+    "created_at": "2025-11-07T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1024.49,
+    "change_24h": 0.85,
+    "change_7d": 2.74,
+    "volume": null
+  },
+  {
+    "id": 135,
+    "date": "2025-11-08T16:17:59.675Z",
+    "created_at": "2025-11-08T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1058.25,
+    "change_24h": -1.45,
+    "change_7d": 1.6,
+    "volume": 2121
+  },
+  {
+    "id": 136,
+    "date": "2025-11-08T16:17:59.675Z",
+    "created_at": "2025-11-08T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1211.29,
+    "change_24h": 1.72,
+    "change_7d": -2.23,
+    "volume": null
+  },
+  {
+    "id": 137,
+    "date": "2025-11-08T16:17:59.675Z",
+    "created_at": "2025-11-08T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 969.54,
+    "change_24h": 1.65,
+    "change_7d": 0.87,
+    "volume": null
+  },
+  {
+    "id": 138,
+    "date": "2025-11-08T16:17:59.675Z",
+    "created_at": "2025-11-08T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 911.5,
+    "change_24h": 1.66,
+    "change_7d": 2.19,
+    "volume": null
+  },
+  {
+    "id": 139,
+    "date": "2025-11-08T16:17:59.675Z",
+    "created_at": "2025-11-08T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1027.35,
+    "change_24h": 0.94,
+    "change_7d": -0.44,
+    "volume": null
+  },
+  {
+    "id": 130,
+    "date": "2025-11-09T16:17:59.675Z",
+    "created_at": "2025-11-09T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1063.46,
+    "change_24h": 1.53,
+    "change_7d": 1.12,
+    "volume": 1968
+  },
+  {
+    "id": 131,
+    "date": "2025-11-09T16:17:59.675Z",
+    "created_at": "2025-11-09T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1216.45,
+    "change_24h": 1.24,
+    "change_7d": -2.51,
+    "volume": null
+  },
+  {
+    "id": 132,
+    "date": "2025-11-09T16:17:59.675Z",
+    "created_at": "2025-11-09T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 975.29,
+    "change_24h": -0.12,
+    "change_7d": -1.37,
+    "volume": null
+  },
+  {
+    "id": 133,
+    "date": "2025-11-09T16:17:59.675Z",
+    "created_at": "2025-11-09T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 917.04,
+    "change_24h": -0.18,
+    "change_7d": -1.52,
+    "volume": null
+  },
+  {
+    "id": 134,
+    "date": "2025-11-09T16:17:59.675Z",
+    "created_at": "2025-11-09T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1031.7,
+    "change_24h": 0.77,
+    "change_7d": 2.48,
+    "volume": null
+  },
+  {
+    "id": 125,
+    "date": "2025-11-10T16:17:59.675Z",
+    "created_at": "2025-11-10T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1067.31,
+    "change_24h": 0.34,
+    "change_7d": 1.08,
+    "volume": 1773
+  },
+  {
+    "id": 126,
+    "date": "2025-11-10T16:17:59.675Z",
+    "created_at": "2025-11-10T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1220.76,
+    "change_24h": -1.24,
+    "change_7d": 1.08,
+    "volume": null
+  },
+  {
+    "id": 127,
+    "date": "2025-11-10T16:17:59.675Z",
+    "created_at": "2025-11-10T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 980.85,
+    "change_24h": -0.33,
+    "change_7d": 0.99,
+    "volume": null
+  },
+  {
+    "id": 128,
+    "date": "2025-11-10T16:17:59.675Z",
+    "created_at": "2025-11-10T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 923.09,
+    "change_24h": 0.59,
+    "change_7d": 2.41,
+    "volume": null
+  },
+  {
+    "id": 129,
+    "date": "2025-11-10T16:17:59.675Z",
+    "created_at": "2025-11-10T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1037.14,
+    "change_24h": -0.67,
+    "change_7d": -2.14,
+    "volume": null
+  },
+  {
+    "id": 120,
+    "date": "2025-11-11T16:17:59.675Z",
+    "created_at": "2025-11-11T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1069.61,
+    "change_24h": 0.53,
+    "change_7d": 1.7,
+    "volume": 1585
+  },
+  {
+    "id": 121,
+    "date": "2025-11-11T16:17:59.675Z",
+    "created_at": "2025-11-11T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1223.71,
+    "change_24h": 0.76,
+    "change_7d": 0.9,
+    "volume": null
+  },
+  {
+    "id": 122,
+    "date": "2025-11-11T16:17:59.675Z",
+    "created_at": "2025-11-11T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 985.56,
+    "change_24h": 1.93,
+    "change_7d": 0.17,
+    "volume": null
+  },
+  {
+    "id": 123,
+    "date": "2025-11-11T16:17:59.675Z",
+    "created_at": "2025-11-11T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 928.95,
+    "change_24h": -1.59,
+    "change_7d": 2.19,
+    "volume": null
+  },
+  {
+    "id": 124,
+    "date": "2025-11-11T16:17:59.675Z",
+    "created_at": "2025-11-11T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1043.09,
+    "change_24h": 0.25,
+    "change_7d": -0.09,
+    "volume": null
+  },
+  {
+    "id": 115,
+    "date": "2025-11-12T16:17:59.675Z",
+    "created_at": "2025-11-12T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1070.43,
+    "change_24h": -1.32,
+    "change_7d": 1.15,
+    "volume": 1449
+  },
+  {
+    "id": 116,
+    "date": "2025-11-12T16:17:59.675Z",
+    "created_at": "2025-11-12T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1225.11,
+    "change_24h": -1.74,
+    "change_7d": 2.71,
+    "volume": null
+  },
+  {
+    "id": 117,
+    "date": "2025-11-12T16:17:59.675Z",
+    "created_at": "2025-11-12T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 988.91,
+    "change_24h": -1.67,
+    "change_7d": 2.66,
+    "volume": null
+  },
+  {
+    "id": 118,
+    "date": "2025-11-12T16:17:59.675Z",
+    "created_at": "2025-11-12T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 933.96,
+    "change_24h": -0.13,
+    "change_7d": -0.94,
+    "volume": null
+  },
+  {
+    "id": 119,
+    "date": "2025-11-12T16:17:59.675Z",
+    "created_at": "2025-11-12T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1048.85,
+    "change_24h": -1.63,
+    "change_7d": -1.6,
+    "volume": null
+  },
+  {
+    "id": 110,
+    "date": "2025-11-13T16:17:59.675Z",
+    "created_at": "2025-11-13T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1070.12,
+    "change_24h": 0.28,
+    "change_7d": -1.05,
+    "volume": 1400
+  },
+  {
+    "id": 111,
+    "date": "2025-11-13T16:17:59.675Z",
+    "created_at": "2025-11-13T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1225.03,
+    "change_24h": -1.74,
+    "change_7d": -2.25,
+    "volume": null
+  },
+  {
+    "id": 112,
+    "date": "2025-11-13T16:17:59.675Z",
+    "created_at": "2025-11-13T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 990.71,
+    "change_24h": 1.6,
+    "change_7d": 2.28,
+    "volume": null
+  },
+  {
+    "id": 113,
+    "date": "2025-11-13T16:17:59.675Z",
+    "created_at": "2025-11-13T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 937.61,
+    "change_24h": 0.14,
+    "change_7d": -1.9,
+    "volume": null
+  },
+  {
+    "id": 114,
+    "date": "2025-11-13T16:17:59.675Z",
+    "created_at": "2025-11-13T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1053.76,
+    "change_24h": 1.22,
+    "change_7d": -0.04,
+    "volume": null
+  },
+  {
+    "id": 105,
+    "date": "2025-11-14T16:17:59.675Z",
+    "created_at": "2025-11-14T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1069.24,
+    "change_24h": 0.52,
+    "change_7d": -2.28,
+    "volume": 1448
+  },
+  {
+    "id": 106,
+    "date": "2025-11-14T16:17:59.675Z",
+    "created_at": "2025-11-14T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1223.82,
+    "change_24h": 1.22,
+    "change_7d": -1.87,
+    "volume": null
+  },
+  {
+    "id": 107,
+    "date": "2025-11-14T16:17:59.675Z",
+    "created_at": "2025-11-14T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 991.03,
+    "change_24h": 1.79,
+    "change_7d": 0.59,
+    "volume": null
+  },
+  {
+    "id": 108,
+    "date": "2025-11-14T16:17:59.675Z",
+    "created_at": "2025-11-14T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 939.71,
+    "change_24h": 1.49,
+    "change_7d": -2.47,
+    "volume": null
+  },
+  {
+    "id": 109,
+    "date": "2025-11-14T16:17:59.675Z",
+    "created_at": "2025-11-14T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1057.31,
+    "change_24h": 1.95,
+    "change_7d": 1.08,
+    "volume": null
+  },
+  {
+    "id": 100,
+    "date": "2025-11-15T16:17:59.675Z",
+    "created_at": "2025-11-15T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1068.39,
+    "change_24h": 0.27,
+    "change_7d": -1.14,
+    "volume": 1582
+  },
+  {
+    "id": 101,
+    "date": "2025-11-15T16:17:59.675Z",
+    "created_at": "2025-11-15T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1222.04,
+    "change_24h": 0.65,
+    "change_7d": -0.55,
+    "volume": null
+  },
+  {
+    "id": 102,
+    "date": "2025-11-15T16:17:59.675Z",
+    "created_at": "2025-11-15T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 990.22,
+    "change_24h": 0.65,
+    "change_7d": 1.57,
+    "volume": null
+  },
+  {
+    "id": 103,
+    "date": "2025-11-15T16:17:59.675Z",
+    "created_at": "2025-11-15T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 940.33,
+    "change_24h": -1.92,
+    "change_7d": -2.24,
+    "volume": null
+  },
+  {
+    "id": 104,
+    "date": "2025-11-15T16:17:59.675Z",
+    "created_at": "2025-11-15T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1059.31,
+    "change_24h": -0.66,
+    "change_7d": 2.97,
+    "volume": null
+  },
+  {
+    "id": 95,
+    "date": "2025-11-16T16:17:59.675Z",
+    "created_at": "2025-11-16T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1068.11,
+    "change_24h": -0.86,
+    "change_7d": 0.85,
+    "volume": 1769
+  },
+  {
+    "id": 96,
+    "date": "2025-11-16T16:17:59.675Z",
+    "created_at": "2025-11-16T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1220.29,
+    "change_24h": -1.78,
+    "change_7d": -1.61,
+    "volume": null
+  },
+  {
+    "id": 97,
+    "date": "2025-11-16T16:17:59.675Z",
+    "created_at": "2025-11-16T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 988.84,
+    "change_24h": -1.72,
+    "change_7d": 2.35,
+    "volume": null
+  },
+  {
+    "id": 98,
+    "date": "2025-11-16T16:17:59.675Z",
+    "created_at": "2025-11-16T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 939.82,
+    "change_24h": 0.67,
+    "change_7d": -1.98,
+    "volume": null
+  },
+  {
+    "id": 99,
+    "date": "2025-11-16T16:17:59.675Z",
+    "created_at": "2025-11-16T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1059.83,
+    "change_24h": -1.46,
+    "change_7d": -2.8,
+    "volume": null
+  },
+  {
+    "id": 90,
+    "date": "2025-11-17T16:17:59.675Z",
+    "created_at": "2025-11-17T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1068.78,
+    "change_24h": 0.43,
+    "change_7d": -1.6,
+    "volume": 1964
+  },
+  {
+    "id": 91,
+    "date": "2025-11-17T16:17:59.675Z",
+    "created_at": "2025-11-17T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1219.11,
+    "change_24h": 1.96,
+    "change_7d": -1.92,
+    "volume": null
+  },
+  {
+    "id": 92,
+    "date": "2025-11-17T16:17:59.675Z",
+    "created_at": "2025-11-17T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 987.49,
+    "change_24h": 0.55,
+    "change_7d": 0.23,
+    "volume": null
+  },
+  {
+    "id": 93,
+    "date": "2025-11-17T16:17:59.675Z",
+    "created_at": "2025-11-17T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 938.74,
+    "change_24h": 2,
+    "change_7d": 1.44,
+    "volume": null
+  },
+  {
+    "id": 94,
+    "date": "2025-11-17T16:17:59.675Z",
+    "created_at": "2025-11-17T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1059.22,
+    "change_24h": 0.81,
+    "change_7d": 1.86,
+    "volume": null
+  },
+  {
+    "id": 85,
+    "date": "2025-11-18T16:17:59.675Z",
+    "created_at": "2025-11-18T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1070.52,
+    "change_24h": -0.89,
+    "change_7d": 1.43,
+    "volume": 2119
+  },
+  {
+    "id": 86,
+    "date": "2025-11-18T16:17:59.675Z",
+    "created_at": "2025-11-18T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1218.88,
+    "change_24h": -0.91,
+    "change_7d": 2.21,
+    "volume": null
+  },
+  {
+    "id": 87,
+    "date": "2025-11-18T16:17:59.675Z",
+    "created_at": "2025-11-18T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 986.71,
+    "change_24h": -1.97,
+    "change_7d": 1.58,
+    "volume": null
+  },
+  {
+    "id": 88,
+    "date": "2025-11-18T16:17:59.675Z",
+    "created_at": "2025-11-18T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 937.69,
+    "change_24h": 1.85,
+    "change_7d": -0.38,
+    "volume": null
+  },
+  {
+    "id": 89,
+    "date": "2025-11-18T16:17:59.675Z",
+    "created_at": "2025-11-18T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1058.04,
+    "change_24h": -1.43,
+    "change_7d": 0.72,
+    "volume": null
+  },
+  {
+    "id": 80,
+    "date": "2025-11-19T16:17:59.675Z",
+    "created_at": "2025-11-19T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1073.24,
+    "change_24h": 0.35,
+    "change_7d": -0.84,
+    "volume": 2195
+  },
+  {
+    "id": 81,
+    "date": "2025-11-19T16:17:59.675Z",
+    "created_at": "2025-11-19T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1219.72,
+    "change_24h": -1.84,
+    "change_7d": -0.43,
+    "volume": null
+  },
+  {
+    "id": 82,
+    "date": "2025-11-19T16:17:59.675Z",
+    "created_at": "2025-11-19T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 986.88,
+    "change_24h": 0.55,
+    "change_7d": 2.99,
+    "volume": null
+  },
+  {
+    "id": 83,
+    "date": "2025-11-19T16:17:59.675Z",
+    "created_at": "2025-11-19T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 937.21,
+    "change_24h": 0.61,
+    "change_7d": -0.8,
+    "volume": null
+  },
+  {
+    "id": 84,
+    "date": "2025-11-19T16:17:59.675Z",
+    "created_at": "2025-11-19T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1056.89,
+    "change_24h": 1.71,
+    "change_7d": 2.22,
+    "volume": null
+  },
+  {
+    "id": 75,
+    "date": "2025-11-20T16:17:59.675Z",
+    "created_at": "2025-11-20T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1076.63,
+    "change_24h": -0.34,
+    "change_7d": -1.46,
+    "volume": 2175
+  },
+  {
+    "id": 76,
+    "date": "2025-11-20T16:17:59.675Z",
+    "created_at": "2025-11-20T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1221.54,
+    "change_24h": -1.08,
+    "change_7d": -2.38,
+    "volume": null
+  },
+  {
+    "id": 77,
+    "date": "2025-11-20T16:17:59.675Z",
+    "created_at": "2025-11-20T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 988.12,
+    "change_24h": 0.03,
+    "change_7d": 0.18,
+    "volume": null
+  },
+  {
+    "id": 78,
+    "date": "2025-11-20T16:17:59.675Z",
+    "created_at": "2025-11-20T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 937.68,
+    "change_24h": 0.75,
+    "change_7d": -2.22,
+    "volume": null
+  },
+  {
+    "id": 79,
+    "date": "2025-11-20T16:17:59.675Z",
+    "created_at": "2025-11-20T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1056.31,
+    "change_24h": -1.8,
+    "change_7d": 0.47,
+    "volume": null
+  },
+  {
+    "id": 70,
+    "date": "2025-11-21T16:17:59.675Z",
+    "created_at": "2025-11-21T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1080.32,
+    "change_24h": 0.36,
+    "change_7d": 1.43,
+    "volume": 2062
+  },
+  {
+    "id": 71,
+    "date": "2025-11-21T16:17:59.675Z",
+    "created_at": "2025-11-21T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1224.03,
+    "change_24h": 0.53,
+    "change_7d": -1.84,
+    "volume": null
+  },
+  {
+    "id": 72,
+    "date": "2025-11-21T16:17:59.675Z",
+    "created_at": "2025-11-21T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 990.34,
+    "change_24h": 0.6,
+    "change_7d": -2.12,
+    "volume": null
+  },
+  {
+    "id": 73,
+    "date": "2025-11-21T16:17:59.675Z",
+    "created_at": "2025-11-21T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 939.22,
+    "change_24h": -0.89,
+    "change_7d": 1.27,
+    "volume": null
+  },
+  {
+    "id": 74,
+    "date": "2025-11-21T16:17:59.675Z",
+    "created_at": "2025-11-21T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1056.68,
+    "change_24h": 1.97,
+    "change_7d": -2.32,
+    "volume": null
+  },
+  {
+    "id": 65,
+    "date": "2025-11-22T16:17:59.675Z",
+    "created_at": "2025-11-22T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1083.93,
+    "change_24h": 1.66,
+    "change_7d": 2.75,
+    "volume": 1886
+  },
+  {
+    "id": 66,
+    "date": "2025-11-22T16:17:59.675Z",
+    "created_at": "2025-11-22T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1226.82,
+    "change_24h": -0.55,
+    "change_7d": -1.07,
+    "volume": null
+  },
+  {
+    "id": 67,
+    "date": "2025-11-22T16:17:59.675Z",
+    "created_at": "2025-11-22T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 993.23,
+    "change_24h": -0.73,
+    "change_7d": -0.31,
+    "volume": null
+  },
+  {
+    "id": 68,
+    "date": "2025-11-22T16:17:59.675Z",
+    "created_at": "2025-11-22T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 941.74,
+    "change_24h": 1.71,
+    "change_7d": -1.13,
+    "volume": null
+  },
+  {
+    "id": 69,
+    "date": "2025-11-22T16:17:59.675Z",
+    "created_at": "2025-11-22T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1058.12,
+    "change_24h": 1.55,
+    "change_7d": -0.65,
+    "volume": null
+  },
+  {
+    "id": 60,
+    "date": "2025-11-23T16:17:59.675Z",
+    "created_at": "2025-11-23T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1087.2,
+    "change_24h": -0.2,
+    "change_7d": -2.85,
+    "volume": 1688
+  },
+  {
+    "id": 61,
+    "date": "2025-11-23T16:17:59.675Z",
+    "created_at": "2025-11-23T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1229.53,
+    "change_24h": 1.17,
+    "change_7d": -2.61,
+    "volume": null
+  },
+  {
+    "id": 62,
+    "date": "2025-11-23T16:17:59.675Z",
+    "created_at": "2025-11-23T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 996.42,
+    "change_24h": 1.95,
+    "change_7d": 0.38,
+    "volume": null
+  },
+  {
+    "id": 63,
+    "date": "2025-11-23T16:17:59.675Z",
+    "created_at": "2025-11-23T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 944.93,
+    "change_24h": 0.27,
+    "change_7d": 1.26,
+    "volume": null
+  },
+  {
+    "id": 64,
+    "date": "2025-11-23T16:17:59.675Z",
+    "created_at": "2025-11-23T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1060.54,
+    "change_24h": -1.21,
+    "change_7d": 1.64,
+    "volume": null
+  },
+  {
+    "id": 55,
+    "date": "2025-11-24T16:17:59.675Z",
+    "created_at": "2025-11-24T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1090.03,
+    "change_24h": 1.4,
+    "change_7d": 1.24,
+    "volume": 1517
+  },
+  {
+    "id": 56,
+    "date": "2025-11-24T16:17:59.675Z",
+    "created_at": "2025-11-24T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1231.9,
+    "change_24h": 0.95,
+    "change_7d": 1.96,
+    "volume": null
+  },
+  {
+    "id": 57,
+    "date": "2025-11-24T16:17:59.675Z",
+    "created_at": "2025-11-24T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 999.53,
+    "change_24h": -1.01,
+    "change_7d": -1.45,
+    "volume": null
+  },
+  {
+    "id": 58,
+    "date": "2025-11-24T16:17:59.675Z",
+    "created_at": "2025-11-24T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 948.42,
+    "change_24h": 0.15,
+    "change_7d": -2.59,
+    "volume": null
+  },
+  {
+    "id": 59,
+    "date": "2025-11-24T16:17:59.675Z",
+    "created_at": "2025-11-24T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1063.63,
+    "change_24h": -0.23,
+    "change_7d": -0.08,
+    "volume": null
+  },
+  {
+    "id": 50,
+    "date": "2025-11-25T16:17:59.675Z",
+    "created_at": "2025-11-25T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1092.49,
+    "change_24h": -0.4,
+    "change_7d": 0.43,
+    "volume": 1416
+  },
+  {
+    "id": 51,
+    "date": "2025-11-25T16:17:59.675Z",
+    "created_at": "2025-11-25T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1233.83,
+    "change_24h": 0.16,
+    "change_7d": -0.04,
+    "volume": null
+  },
+  {
+    "id": 52,
+    "date": "2025-11-25T16:17:59.675Z",
+    "created_at": "2025-11-25T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 1002.3,
+    "change_24h": -1.3,
+    "change_7d": 0.14,
+    "volume": null
+  },
+  {
+    "id": 53,
+    "date": "2025-11-25T16:17:59.675Z",
+    "created_at": "2025-11-25T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 951.83,
+    "change_24h": -1.92,
+    "change_7d": -0.54,
+    "volume": null
+  },
+  {
+    "id": 54,
+    "date": "2025-11-25T16:17:59.675Z",
+    "created_at": "2025-11-25T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1067.02,
+    "change_24h": 1.32,
+    "change_7d": -2.94,
+    "volume": null
+  },
+  {
+    "id": 45,
+    "date": "2025-11-26T16:17:59.675Z",
+    "created_at": "2025-11-26T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1094.8,
+    "change_24h": -0.28,
+    "change_7d": -0.96,
+    "volume": 1408
+  },
+  {
+    "id": 46,
+    "date": "2025-11-26T16:17:59.675Z",
+    "created_at": "2025-11-26T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1235.39,
+    "change_24h": -1.68,
+    "change_7d": -1.34,
+    "volume": null
+  },
+  {
+    "id": 47,
+    "date": "2025-11-26T16:17:59.675Z",
+    "created_at": "2025-11-26T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 1004.63,
+    "change_24h": -0.91,
+    "change_7d": 0.29,
+    "volume": null
+  },
+  {
+    "id": 48,
+    "date": "2025-11-26T16:17:59.675Z",
+    "created_at": "2025-11-26T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 954.9,
+    "change_24h": -0.15,
+    "change_7d": 2.23,
+    "volume": null
+  },
+  {
+    "id": 49,
+    "date": "2025-11-26T16:17:59.675Z",
+    "created_at": "2025-11-26T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1070.33,
+    "change_24h": 0.01,
+    "change_7d": -2.84,
+    "volume": null
+  },
+  {
+    "id": 40,
+    "date": "2025-11-27T16:17:59.675Z",
+    "created_at": "2025-11-27T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1097.23,
+    "change_24h": 0.24,
+    "change_7d": -2.33,
+    "volume": 1497
+  },
+  {
+    "id": 41,
+    "date": "2025-11-27T16:17:59.675Z",
+    "created_at": "2025-11-27T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1236.8,
+    "change_24h": -1.67,
+    "change_7d": -0.75,
+    "volume": null
+  },
+  {
+    "id": 42,
+    "date": "2025-11-27T16:17:59.675Z",
+    "created_at": "2025-11-27T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 1006.59,
+    "change_24h": -1.9,
+    "change_7d": 2.61,
+    "volume": null
+  },
+  {
+    "id": 43,
+    "date": "2025-11-27T16:17:59.675Z",
+    "created_at": "2025-11-27T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 957.53,
+    "change_24h": 1.67,
+    "change_7d": -1.76,
+    "volume": null
+  },
+  {
+    "id": 44,
+    "date": "2025-11-27T16:17:59.675Z",
+    "created_at": "2025-11-27T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1073.3,
+    "change_24h": -0.13,
+    "change_7d": -2.12,
+    "volume": null
+  },
+  {
+    "id": 35,
+    "date": "2025-11-28T16:17:59.675Z",
+    "created_at": "2025-11-28T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1099.99,
+    "change_24h": -0.97,
+    "change_7d": 1.85,
+    "volume": 1659
+  },
+  {
+    "id": 36,
+    "date": "2025-11-28T16:17:59.675Z",
+    "created_at": "2025-11-28T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1238.33,
+    "change_24h": -0.52,
+    "change_7d": 0.7,
+    "volume": null
+  },
+  {
+    "id": 37,
+    "date": "2025-11-28T16:17:59.675Z",
+    "created_at": "2025-11-28T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 1008.4,
+    "change_24h": 1.08,
+    "change_7d": -0.34,
+    "volume": null
+  },
+  {
+    "id": 38,
+    "date": "2025-11-28T16:17:59.675Z",
+    "created_at": "2025-11-28T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 959.79,
+    "change_24h": -1.06,
+    "change_7d": -1.94,
+    "volume": null
+  },
+  {
+    "id": 39,
+    "date": "2025-11-28T16:17:59.675Z",
+    "created_at": "2025-11-28T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1075.83,
+    "change_24h": 0.88,
+    "change_7d": 0.47,
+    "volume": null
+  },
+  {
+    "id": 30,
+    "date": "2025-11-29T16:17:59.675Z",
+    "created_at": "2025-11-29T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1103.2,
+    "change_24h": 1.54,
+    "change_7d": -1.25,
+    "volume": 1856
+  },
+  {
+    "id": 31,
+    "date": "2025-11-29T16:17:59.675Z",
+    "created_at": "2025-11-29T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1240.19,
+    "change_24h": -1.59,
+    "change_7d": 2.05,
+    "volume": null
+  },
+  {
+    "id": 32,
+    "date": "2025-11-29T16:17:59.675Z",
+    "created_at": "2025-11-29T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 1010.33,
+    "change_24h": -0.43,
+    "change_7d": -2.11,
+    "volume": null
+  },
+  {
+    "id": 33,
+    "date": "2025-11-29T16:17:59.675Z",
+    "created_at": "2025-11-29T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 961.9,
+    "change_24h": 0.43,
+    "change_7d": 1.15,
+    "volume": null
+  },
+  {
+    "id": 34,
+    "date": "2025-11-29T16:17:59.675Z",
+    "created_at": "2025-11-29T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1077.99,
+    "change_24h": 1.24,
+    "change_7d": 2.07,
+    "volume": null
+  },
+  {
+    "id": 25,
+    "date": "2025-11-30T16:17:59.675Z",
+    "created_at": "2025-11-30T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1106.77,
+    "change_24h": -0.89,
+    "change_7d": -2.22,
+    "volume": 2039
+  },
+  {
+    "id": 26,
+    "date": "2025-11-30T16:17:59.675Z",
+    "created_at": "2025-11-30T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1242.5,
+    "change_24h": 1.22,
+    "change_7d": -1.2,
+    "volume": null
+  },
+  {
+    "id": 27,
+    "date": "2025-11-30T16:17:59.675Z",
+    "created_at": "2025-11-30T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 1012.59,
+    "change_24h": -0.43,
+    "change_7d": -0.05,
+    "volume": null
+  },
+  {
+    "id": 28,
+    "date": "2025-11-30T16:17:59.675Z",
+    "created_at": "2025-11-30T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 964.13,
+    "change_24h": -0.69,
+    "change_7d": -0.54,
+    "volume": null
+  },
+  {
+    "id": 29,
+    "date": "2025-11-30T16:17:59.675Z",
+    "created_at": "2025-11-30T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1080,
+    "change_24h": 0.55,
+    "change_7d": 0.19,
+    "volume": null
+  },
+  {
+    "id": 20,
+    "date": "2025-12-01T16:17:59.675Z",
+    "created_at": "2025-12-01T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1110.47,
+    "change_24h": 0.11,
+    "change_7d": 1.05,
+    "volume": 2163
+  },
+  {
+    "id": 21,
+    "date": "2025-12-01T16:17:59.675Z",
+    "created_at": "2025-12-01T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1245.17,
+    "change_24h": -0.31,
+    "change_7d": -0.35,
+    "volume": null
+  },
+  {
+    "id": 22,
+    "date": "2025-12-01T16:17:59.675Z",
+    "created_at": "2025-12-01T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 1015.3,
+    "change_24h": -1.2,
+    "change_7d": 0.22,
+    "volume": null
+  },
+  {
+    "id": 23,
+    "date": "2025-12-01T16:17:59.675Z",
+    "created_at": "2025-12-01T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 966.69,
+    "change_24h": -0.88,
+    "change_7d": 0.4,
+    "volume": null
+  },
+  {
+    "id": 24,
+    "date": "2025-12-01T16:17:59.675Z",
+    "created_at": "2025-12-01T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1082.13,
+    "change_24h": -1.59,
+    "change_7d": -2.81,
+    "volume": null
+  },
+  {
+    "id": 15,
+    "date": "2025-12-02T16:17:59.675Z",
+    "created_at": "2025-12-02T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1113.93,
+    "change_24h": -0.79,
+    "change_7d": -1.39,
+    "volume": 2198
+  },
+  {
+    "id": 16,
+    "date": "2025-12-02T16:17:59.675Z",
+    "created_at": "2025-12-02T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1247.97,
+    "change_24h": 1.96,
+    "change_7d": -2.11,
+    "volume": null
+  },
+  {
+    "id": 17,
+    "date": "2025-12-02T16:17:59.675Z",
+    "created_at": "2025-12-02T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 1018.37,
+    "change_24h": -1.18,
+    "change_7d": 1.76,
+    "volume": null
+  },
+  {
+    "id": 18,
+    "date": "2025-12-02T16:17:59.675Z",
+    "created_at": "2025-12-02T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 969.7,
+    "change_24h": 0.43,
+    "change_7d": 2.13,
+    "volume": null
+  },
+  {
+    "id": 19,
+    "date": "2025-12-02T16:17:59.675Z",
+    "created_at": "2025-12-02T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1084.59,
+    "change_24h": 1.24,
+    "change_7d": 1.15,
+    "volume": null
+  },
+  {
+    "id": 10,
+    "date": "2025-12-03T16:17:59.675Z",
+    "created_at": "2025-12-03T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1116.77,
+    "change_24h": 0.13,
+    "change_7d": 0.33,
+    "volume": 2136
+  },
+  {
+    "id": 11,
+    "date": "2025-12-03T16:17:59.675Z",
+    "created_at": "2025-12-03T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1250.53,
+    "change_24h": -0.29,
+    "change_7d": 1.35,
+    "volume": null
+  },
+  {
+    "id": 12,
+    "date": "2025-12-03T16:17:59.675Z",
+    "created_at": "2025-12-03T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 1021.57,
+    "change_24h": -1.37,
+    "change_7d": -2.83,
+    "volume": null
+  },
+  {
+    "id": 13,
+    "date": "2025-12-03T16:17:59.675Z",
+    "created_at": "2025-12-03T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 973.07,
+    "change_24h": -1.06,
+    "change_7d": -0.39,
+    "volume": null
+  },
+  {
+    "id": 14,
+    "date": "2025-12-03T16:17:59.675Z",
+    "created_at": "2025-12-03T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1087.5,
+    "change_24h": 1.9,
+    "change_7d": 1.28,
+    "volume": null
+  },
+  {
+    "id": 5,
+    "date": "2025-12-04T16:17:59.675Z",
+    "created_at": "2025-12-04T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1118.67,
+    "change_24h": -0.45,
+    "change_7d": -0.57,
+    "volume": 1991
+  },
+  {
+    "id": 6,
+    "date": "2025-12-04T16:17:59.675Z",
+    "created_at": "2025-12-04T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1252.47,
+    "change_24h": 0.71,
+    "change_7d": -0.44,
+    "volume": null
+  },
+  {
+    "id": 7,
+    "date": "2025-12-04T16:17:59.675Z",
+    "created_at": "2025-12-04T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 1024.53,
+    "change_24h": 1.86,
+    "change_7d": 1.76,
+    "volume": null
+  },
+  {
+    "id": 8,
+    "date": "2025-12-04T16:17:59.675Z",
+    "created_at": "2025-12-04T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 976.57,
+    "change_24h": 0.7,
+    "change_7d": -0.23,
+    "volume": null
+  },
+  {
+    "id": 9,
+    "date": "2025-12-04T16:17:59.675Z",
+    "created_at": "2025-12-04T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1090.77,
+    "change_24h": 1.14,
+    "change_7d": -1,
+    "volume": null
+  },
+  {
+    "id": 0,
+    "date": "2025-12-05T16:17:59.675Z",
+    "created_at": "2025-12-05T16:17:59.675Z",
+    "index_type": "cti",
+    "value": 1119.5,
+    "change_24h": -1.52,
+    "change_7d": 0.84,
+    "volume": 1800
+  },
+  {
+    "id": 1,
+    "date": "2025-12-05T16:17:59.675Z",
+    "created_at": "2025-12-05T16:17:59.675Z",
+    "index_type": "vintage",
+    "value": 1253.47,
+    "change_24h": 0.27,
+    "change_7d": 1.64,
+    "volume": null
+  },
+  {
+    "id": 2,
+    "date": "2025-12-05T16:17:59.675Z",
+    "created_at": "2025-12-05T16:17:59.675Z",
+    "index_type": "modern",
+    "value": 1026.87,
+    "change_24h": 1.02,
+    "change_7d": -1.57,
+    "volume": null
+  },
+  {
+    "id": 3,
+    "date": "2025-12-05T16:17:59.675Z",
+    "created_at": "2025-12-05T16:17:59.675Z",
+    "index_type": "japanese",
+    "value": 979.83,
+    "change_24h": 1.98,
+    "change_7d": 0.79,
+    "volume": null
+  },
+  {
+    "id": 4,
+    "date": "2025-12-05T16:17:59.675Z",
+    "created_at": "2025-12-05T16:17:59.675Z",
+    "index_type": "overall",
+    "value": 1094.17,
+    "change_24h": -0.75,
+    "change_7d": 1.33,
+    "volume": null
+  }
+]

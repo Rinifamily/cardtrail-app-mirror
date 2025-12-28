@@ -1,0 +1,75 @@
+version: "3"
+
+tasks:
+  dev:
+    desc: Start the Next.js development server
+    dir: apps/web
+    cmds:
+      - pnpm dev
+
+  build:
+    desc: Build all workspace packages via Turborepo
+    cmds:
+      - pnpm build
+
+  test:
+    desc: Run unit and end-to-end tests
+    cmds:
+      - pnpm test
+      - pnpm --filter web test:e2e
+
+  test:unit:
+    desc: Run Vitest suite for the web app
+    dir: apps/web
+    cmds:
+      - pnpm test:unit
+
+  test:e2e:
+    desc: Run Playwright tests headlessly
+    dir: apps/web
+    cmds:
+      - pnpm test:e2e
+
+  test:e2e:ui:
+    desc: Run Playwright in interactive UI mode
+    dir: apps/web
+    cmds:
+      - pnpm test:e2e:ui
+
+  lint:
+    desc: Run lint checks across the monorepo
+    cmds:
+      - pnpm lint
+
+  format:
+    desc: Format code with Prettier
+    cmds:
+      - pnpm format
+
+  typecheck:
+    desc: Run TypeScript strict type checking
+    cmds:
+      - pnpm typecheck
+
+  db:types:
+    desc: Generate Supabase database types
+    dir: apps/web
+    cmds:
+      - pnpm db:types
+
+  clean:
+    desc: Remove build artifacts for all packages
+    cmds:
+      - rm -rf apps/*/.next apps/*/dist packages/*/dist
+
+  clean:all:
+    desc: Remove all build artifacts and dependencies
+    cmds:
+      - task clean
+      - rm -rf node_modules apps/*/node_modules packages/*/node_modules
+
+  setup:
+    desc: Install dependencies and Playwright browsers
+    cmds:
+      - pnpm install
+      - pnpm --filter web exec playwright install

@@ -1,0 +1,33 @@
+SLUG	DISPLAY_NAME
+gold	Gold
+m-p-promotional-cards	M-P Promotional Cards
+m1l-mega-brave	m1L: Mega Brave
+m1s-mega-symphonia	m1S: Mega Symphonia
+m2-inferno-x	M2: Inferno X
+m2a-high-class-pack-mega-dream-ex	M2a: High Class Pack: MEGA Dream ex
+mystery-of-the-fossils	Mystery of the Fossils
+pokemon-jungle	Pokemon Jungle
+s10b-pokemon-go	S10b: Pokemon GO
+s12a-vstar-universe	S12a: VSTAR Universe
+s8a-25th-anniversary-collection	S8a: 25th Anniversary Collection
+s8b-vmax-climax	S8b: VMAX Climax
+sm10a-gg-end	SM10a: GG End
+sm8-super-burst-impact	SM8: Super-Burst Impact
+sv-p-promotional-cards	SV-P Promotional Cards
+sv10-the-glory-of-team-rocket	SV10: The Glory of Team Rocket
+sv11b-black-bolt	SV11B: Black Bolt
+sv11w-white-flare	SV11W: White Flare
+sv2a-pokemon-card-151	SV2a: Pokemon Card 151
+sv2d-clay-burst	SV2D: Clay Burst
+sv3-ruler-of-the-black-flame	SV3: Ruler of the Black Flame
+sv3a-raging-surf	SV3a: Raging Surf
+sv4a-shiny-treasure-ex	SV4a: Shiny Treasure ex
+sv5a-crimson-haze	SV5a: Crimson Haze
+sv5k-wild-force	SV5K: Wild Force
+sv5m-cyber-judge	SV5M: Cyber Judge
+sv6-transformation-mask	SV6: Transformation Mask
+sv7a-paradise-dragona	SV7a: Paradise Dragona
+sv8-super-electric-breaker	SV8: Super Electric Breaker
+sv8a-terastal-fest-ex	SV8a: Terastal Fest ex
+sv9-battle-partners	SV9: Battle Partners
+sv9a-heat-wave-arena	SV9a: Heat Wave Arena

@@ -1,0 +1,17 @@
+{
+  "git": {
+    "deploymentEnabled": {
+      "main": true
+    }
+  },
+  "github": {
+    "silent": true,
+    "autoJobCancelation": true
+  },
+  "crons": [
+    {
+      "path": "/api/internal/sync-prices",
+      "schedule": "0 0 * * *"
+    }
+  ]
+}
